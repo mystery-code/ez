@@ -1,5 +1,5 @@
 # ez
-My C programming package: Includes EZ library, examples, tutorial,
+My C programming package (EZ.ZIP): Includes EZ library, examples, tutorial,
 graphics (fonts, icons), TinyCC, Notepad++. 100% FREE. See preview.jpg.
 
 EZ C LIBRARY. Written by Mysterious Software. Just
@@ -14,7 +14,7 @@ graphics demonstrations.
 load_image, draw_image, open_file, save_file, load_font,
 text_copy, draw_text, draw_gradient. Draws everything from
 scratch without using OS
-* Tutorial: Introduction to C (\HELP\)
+* Tutorial: Introduction to C (See \HELP\INDEX.HTML)
 * Includes custom graphics, fonts and icons (\MEDIA\). Portable
 algorithms for any system. Every single pixel, line, image, font,
 etc, is drawn directly to memory using only CPU instructions
